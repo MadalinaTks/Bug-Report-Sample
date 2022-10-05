@@ -1,4 +1,4 @@
-# Bug-Report-Sample
+# Bug Report Samples
 
 **Priority and severity** 			
 P2 - High
